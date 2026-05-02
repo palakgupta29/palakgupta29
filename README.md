@@ -72,7 +72,7 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (linkedin.com/in/palak-gupta-572b879a)
+* 💼 LinkedIn: (https://www.linkedin.com/in/palak-gupta-572b8729a/)
 * 📧 Email: (guptapalak1432@gmail.com)
 
 ---
