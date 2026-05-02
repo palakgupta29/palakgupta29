@@ -9,7 +9,6 @@
 ## 🚀 About Me
 
 * 📊 Passionate about **Data Science, Machine Learning & Backend Development**
-* 🧠 Currently preparing for **GATE CSE 2026**
 * 💡 Love building real-world projects that solve problems
 * 📈 Exploring **Deep Learning & MLOps**
 
@@ -21,7 +20,9 @@
 
 * Python 🐍
 * JavaScript
+* PostgreSQL
 * SQL
+* Java
 
 ### ⚙️ Tools & Technologies
 
@@ -71,8 +72,8 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (Add your link)
-* 📧 Email: (Add your email)
+* 💼 LinkedIn: (linkedin.com/in/palakgupta-572b879a)
+* 📧 Email: (guptapalak1432@gmail.com)
 
 ---
 
